@@ -17,5 +17,4 @@ jobs:
       steps:
         - name: View SW Version
           run: sw_vers
-        - name: Error Step
-          run:  doesnotexist    
+      
